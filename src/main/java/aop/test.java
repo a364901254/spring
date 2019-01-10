@@ -5,4 +5,5 @@ package aop;
  */
 public class test {
 int a = 0;
+int j=0;
 }
